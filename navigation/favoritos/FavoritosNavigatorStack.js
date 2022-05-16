@@ -1,12 +1,8 @@
 import FavoritosScreen from '../../screens/FavoritosScreen.js'
+import { Platform } from "react-native";
 import color from "../../constants/color";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import react from "react";
-
-//import { Platform } from "react-native";
-
-
-
 
 const Stack = createNativeStackNavigator();
 
